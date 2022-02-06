@@ -2,4 +2,4 @@
 
 ### Hi, I’m @maurocorreia. 
 - 🧠 Web developer student at Trybe. 
-- 🏷️ I’m currently learning React! 
+- 🐱‍👤 I’m currently learning React! 
